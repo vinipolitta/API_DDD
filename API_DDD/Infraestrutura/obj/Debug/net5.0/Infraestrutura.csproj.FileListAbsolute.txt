@@ -1,0 +1,15 @@
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Infraestrutura.deps.json
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Infraestrutura.runtimeconfig.json
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Infraestrutura.runtimeconfig.dev.json
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Infraestrutura.dll
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Infraestrutura.pdb
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csproj.AssemblyReference.cache
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.AssemblyInfoInputs.cache
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.AssemblyInfo.cs
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csproj.CoreCompileInputs.cache
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.dll
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\refint\Infraestrutura.dll
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.pdb
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.genruntimeconfig.cache
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\ref\Infraestrutura.dll

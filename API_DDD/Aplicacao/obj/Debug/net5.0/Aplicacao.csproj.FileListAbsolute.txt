@@ -1,0 +1,12 @@
+D:\repos\API_DDD\API_DDD\Aplicacao\bin\Debug\net5.0\Aplicacao.deps.json
+D:\repos\API_DDD\API_DDD\Aplicacao\bin\Debug\net5.0\Aplicacao.dll
+D:\repos\API_DDD\API_DDD\Aplicacao\bin\Debug\net5.0\Aplicacao.pdb
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.AssemblyReference.cache
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfoInputs.cache
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfo.cs
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompileInputs.cache
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\refint\Aplicacao.dll
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
