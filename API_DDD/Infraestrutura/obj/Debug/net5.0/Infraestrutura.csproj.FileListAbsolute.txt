@@ -13,3 +13,8 @@ D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\refint\Infraestrutura.d
 D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.pdb
 D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.genruntimeconfig.cache
 D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\ref\Infraestrutura.dll
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Dominio.dll
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Entidades.dll
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Entidades.pdb
+D:\repos\API_DDD\API_DDD\Infraestrutura\bin\Debug\net5.0\Dominio.pdb
+D:\repos\API_DDD\API_DDD\Infraestrutura\obj\Debug\net5.0\Infraestrutura.csproj.CopyComplete

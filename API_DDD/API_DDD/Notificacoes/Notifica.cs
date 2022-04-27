@@ -38,7 +38,7 @@ namespace Entidades.Notificacoes
         }
         public bool ValidarPropriedadeString(string valor, string nomePropriedade)
         {
-            if (string.IsNullOrWhiteSpace(nomePropriedade) || string.IsNullOrWhiteSpace(nomePropriedade))
+            if (string.IsNullOrWhiteSpace(valor) || string.IsNullOrWhiteSpace(nomePropriedade))
             {
                 Notificacoes.Add(new Notifica
                 {

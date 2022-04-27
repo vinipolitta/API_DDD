@@ -10,3 +10,6 @@ D:\repos\API_DDD\API_DDD\Dominio\obj\Debug\net5.0\Dominio.dll
 D:\repos\API_DDD\API_DDD\Dominio\obj\Debug\net5.0\refint\Dominio.dll
 D:\repos\API_DDD\API_DDD\Dominio\obj\Debug\net5.0\Dominio.pdb
 D:\repos\API_DDD\API_DDD\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\repos\API_DDD\API_DDD\Dominio\bin\Debug\net5.0\Entidades.dll
+D:\repos\API_DDD\API_DDD\Dominio\bin\Debug\net5.0\Entidades.pdb
+D:\repos\API_DDD\API_DDD\Dominio\obj\Debug\net5.0\Dominio.csproj.CopyComplete

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vthqew8lvybv/3sZUX2uBG7wAD37oFPJomZVdpt2vRLqwzDJJkoT67IzBhoKTuyIHRfLmWjzv2s9lJR2l/MKdw==",
+  "dgSpecHash": "ZFzkU4zROrAfPkjqMhanxJRjMENO5kq97z8p2TnJQMTxUWedhkbjOfpaPuI0jg6ePUx7J1oGIiAnDTJlG03pFQ==",
   "success": true,
   "projectFilePath": "D:\\repos\\API_DDD\\API_DDD\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vini\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.0\\microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vini\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.0\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\microsoft.aspnetcore.identity.ui.5.0.0.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

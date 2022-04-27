@@ -60,3 +60,4 @@ D:\repos\API_DDD\API_DDD\WebAPI\obj\Debug\net5.0\refint\WebAPI.dll
 D:\repos\API_DDD\API_DDD\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 D:\repos\API_DDD\API_DDD\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
 D:\repos\API_DDD\API_DDD\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\repos\API_DDD\API_DDD\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
