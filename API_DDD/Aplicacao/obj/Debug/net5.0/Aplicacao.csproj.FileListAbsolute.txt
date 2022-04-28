@@ -10,3 +10,8 @@ D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
 D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\refint\Aplicacao.dll
 D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb
 D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
+D:\repos\API_DDD\API_DDD\Aplicacao\bin\Debug\net5.0\Dominio.dll
+D:\repos\API_DDD\API_DDD\Aplicacao\bin\Debug\net5.0\Entidades.dll
+D:\repos\API_DDD\API_DDD\Aplicacao\bin\Debug\net5.0\Entidades.pdb
+D:\repos\API_DDD\API_DDD\Aplicacao\bin\Debug\net5.0\Dominio.pdb
+D:\repos\API_DDD\API_DDD\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CopyComplete
