@@ -1,5 +1,6 @@
 ﻿using Dominio.Interfaces;
 using Entidades.Entidades;
+using Entidades.Enums;
 using Infraestrutura.Configuracoes;
 using Infraestrutura.Repositorio.Genericos;
 using Microsoft.EntityFrameworkCore;
@@ -25,14 +26,15 @@ namespace Infraestrutura.Repositorio
             {
                 using (var data = new Contexto(_optionsBuilder))
                 {
-                   await data.ApplicationUser.AddAsync(
-                        new ApplicationUser
-                        {
-                            Email = email,
-                            PasswordHash = senha,
-                            Idade = idade,
-                            Celular = celular
-                        });
+                    await data.ApplicationUser.AddAsync(
+                         new ApplicationUser
+                         {
+                             Email = email,
+                             PasswordHash = senha,
+                             Idade = idade,
+                             Celular = celular,
+                             Tipo = TipoUsuario.Comun
+                         }); 
                     await data.SaveChangesAsync();
                 }
             }
